@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPG2MVGN3OF6kBoMrixocdf0eZeyiGwDQjg&s">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiishekh&label=Profile%20views&color=0e75b6&style=flat" alt="abhiishekh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@_hustler0" target="blank"><img src="https://img.shields.io/twitter/follow/@_hustler0?logo=twitter&style=for-the-badge" alt="@_hustler0" /></a> </p>
