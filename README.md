@@ -1,30 +1,136 @@
 
-<h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" border-radius="10px" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiishekh&label=Profile%20views&color=0e75b6&style=flat" alt="abhiishekh" /> </p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abhiishekh&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/abhiishekh)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<div align="left" width="100%" height="100%">
+ 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiishek08/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:abhishekmaurya.webdev@gmail.com)
+![](https://komarev.com/ghpvc/?username=abhiishekh&color=brightgreen&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/abhiishekh08)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_mauryaaa)
+</div>
 
-<p align="left"> <a href="https://twitter.com/@_hustler0" target="blank"><img src="https://img.shields.io/twitter/follow/@_hustler0?logo=twitter&style=for-the-badge" alt="@_hustler0" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React, MERN Stack**
+<h4 style="font-size : 20px;">👋 Hello! I'm Abhihshek , a web developer from Varanasi, India. I taught myself how to build websites. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!<h4>
 
-- 📫 How to reach me **abhishekmaurya.webdev@gmail.com**
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=abhiishekh&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiishekh&theme=radical&layout=compact)](https://github.com/abhiishekh) </td>
+   </tr>
+  </table>
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@abhishe0375597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe0375597" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek maurya" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishekmaurya_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekmaurya_08" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abhisheaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhisheaurya/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiishekh&show_icons=true&locale=en&layout=compact" alt="abhiishekh" /></p>
+  
+<h2> some of the technologies I work with ❤️</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiishekh&show_icons=true&locale=en" alt="abhiishekh" /></p>
+<h4> programming languages</h4>
+ 
+ <table width="100%" height="100%">
+  <tr>
+      <td>
+        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+     </td>
+     <td>
+      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+     </td>
+          <td align="center">
+       <img alt="React" height=64px src= "https://cdn.worldvectorlogo.com/logos/react-2.svg">
+     </td>
+      <td align="center">
+      <img alt="Next.Js" height=64px src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+    </td>
+   </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiishekh&" alt="abhiishekh" /></p>
+<h4> Technologies [ Frameworks && tools ] </h4>
+
+<table>
+   <tr>
+          <td align="center">
+       <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+     </td>
+      <td align="center">
+      <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    </td>
+    <td>
+        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+     </td>
+     <td>
+      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+     </td>
+     <td align="center">
+      <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+    </td>
+     <td align="center">
+       <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
+     </td>
+    <td>
+     <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
+    </td>
+   </tr>
+   <tr>
+          <td align="center">
+       <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
+     </td> 
+     <td align="center">
+       <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
+     </td>
+        <td align="center">
+       <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+     </td>
+    <td align="center">
+       <img alt="Firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+     </td>   
+    <td align="center">
+       <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
+     </td> 
+       <td align="center">
+       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+     </td>  
+    <td align="center">
+       <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
+     </td> 
+     <td align="center">
+       <img alt="chatGpt" height=64px src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg">
+     </td> 
+      <td>
+        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+     </td>
+   </tr>
+
+ </table>
+ 
+<br>
+
+
+
+
+
+
+
+ 
+ 
+
+
+<!--
+**abhiishekh/abhiishekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+ 🔭 I’m currently working on ...##Python & Django
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+<a href="https://github.com/abhiishekh/stargazers"><img src="https://img.shields.io/github/stars/abhiishekh" alt="Stars Badge"/></a>
+
+-->
