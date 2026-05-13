@@ -22,7 +22,7 @@ I build production-grade SaaS products, LLM-powered applications, and AI-integra
 - 🏗️ **Currently building:** [UFL](https://habits.hellocoders.in) — a gamified AI habit tracker with XP, streaks, and forest mechanics
 - 🤖 **Also shipping:** Vaadanuvaad — a bulk document translator powered by Google Gemini
 - 🍱 **In progress:** AI-powered calorie tracker for the Indian market using Gemini Vision + IFCT nutrition DB
-- 💼 **Day job:** Backend Engineer at **Sun System Infotech** 
+- 💼 **Day job:** Full Stack Developer at **Sun System Infotech** 
 - 🌱 **Exploring:** LangGraph agents, RAG pipelines, React Native, and Indian market fintech APIs
 - ✍️ **Building in public** on [LinkedIn](https://www.linkedin.com/in/abhiishek08/) & [Twitter](https://twitter.com/_mauryaaa)
 - 📬 **Reach me:** abhishekmaurya.webdev@gmail.com | [hellocoders.in/hire](https://hellocoders.in/hire)
